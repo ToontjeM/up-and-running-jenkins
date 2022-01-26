@@ -1,4 +1,6 @@
 # Up and Running with Lacework and Jenkins
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/4696d3df-3ce4-4ed4-afc8-9250dd63d064.svg?orgId=202790583906)](https://app.soluble.cloud/repos/details/github.com/tonatlacework/up-and-running-jenkins?orgId=202790583906)  
 This repo contains a tutorial for how Lacework customers can integrate the Lacework container vulnerability capability with Jenkins to test container build for vulnerabilities.
 
 ## What we are going to build
